@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GC-Password</key>
+	<string>12345678</string>
+	<key>GC-Email</key>
+	<string>andreas.stein@goodscloud.com</string>
+	<key>WebServiceBaseURL</key>
+	<string>https://sandbox.goodscloud.com</string>
+</dict>
+</plist>
